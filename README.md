@@ -134,8 +134,3 @@ docker-compose down
 - Expected: `200 OK` with the payment object
 
 ---
-
-## GitHub Submission Checklist
-- [ ] Push this entire folder to a **public** GitHub repository
-- [ ] Take screenshots of each Postman test passing
-- [ ] Include the GitHub repo link in your Word document submission
